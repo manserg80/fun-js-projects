@@ -9,5 +9,5 @@ Projects:
 <img src="./projects-snapshots/grocery-list.png" alt="drawing" style="width:200px; height: 200px;"/>
 
 2. Animated form
-<img src="./projects-snapshots/signin.png" alt="drawing" style="width:200px; height: 200px;"/>
-<img src="./projects-snapshots/signup.png" alt="drawing" style="width:200px; height: 200px;"/>
+<img src="./projects-snapshots/signin.png" alt="drawing" style="width:400px; height: 200px;"/>
+<img src="./projects-snapshots/signup.png" alt="drawing" style="width:400px; height: 200px;"/>
