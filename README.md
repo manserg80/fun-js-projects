@@ -4,4 +4,4 @@ The repository stores diiferent JavaScript projects toolked from turtorials on t
 Main purpose is to practice HTML, CSS and JavaScript.
 Projects:
 1. Simple-grocery-list
-![grocery-list](./projects-snapshots/grocery-list.png =100x20)
+<img src="./projects-snapshots/grocery-list.png" alt="drawing" style="width:200px; height: 200px;"/>
